@@ -1,0 +1,11 @@
+__pycache__/
+*/__pycache__/
+*.py[cod]
+
+coco/*
+!coco/coco.names
+
+yolo/*
+!yolo/yolov3.cfg
+
+log/
